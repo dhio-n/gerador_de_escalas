@@ -1,0 +1,6 @@
+# Este é um arquivo de exemplo para demonstrar o formato da planilha de feriados
+# O arquivo real deve ser um arquivo Excel (.xlsx) com as seguintes colunas:
+
+Data,Descricao
+12/06/2025,Corpus Christi
+19/06/2025,São João 

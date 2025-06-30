@@ -1,0 +1,9 @@
+# Este é um arquivo de exemplo para demonstrar o formato da planilha de colaboradores
+# O arquivo real deve ser um arquivo Excel (.xlsx) com as seguintes colunas:
+
+Nome,Cargo,Tipo_Escala,Turno,Atestados,Ferias,Escalas_Manuais,Ultimo_Plantao_Mes_Anterior,Ultimo_Domingo_Folga
+João Silva,Analista,M44,Manhã,,,,,
+Maria Santos,Técnico,T44,Tarde,15/06/2025,,,,,
+Pedro Oliveira,Auxiliar,N6X1,Noite,,10/06/2025-20/06/2025,,,25/05/2025
+Ana Costa,Supervisor,P_D,Dia,,,,30/05/2025,
+Carlos Lima,Operador,I_N,Noite,20/06/2025,,,29/05/2025, 
